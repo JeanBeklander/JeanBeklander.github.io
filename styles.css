@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  border: 2px solid #007bff; /* Ширина, стиль и цвет бордера */
+  border-radius: 10px; /* Скругление углов */
+  width: 300px;
+  margin: 0 auto;
+}
+.image {
+  border: 5px solid #e040fb; /* бордер для изображения */
+  border-radius: 10px; /* скругление углов */
+}
+.p {
+  font-size: 20px;
+  font-style: italic;
+  font-family: sans-serif;
+}
